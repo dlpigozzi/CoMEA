@@ -1,5 +1,5 @@
 # MEA-connectivity
-This code runs for a MATLAB 2019b
+This code runs for MATLAB 2019b
 
 MAIN function:
 - OneWellMEA_connectivity.m
