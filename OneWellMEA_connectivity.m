@@ -71,7 +71,7 @@ for k=1:length(row)
     idx=find(counts==x);
     if abs(counts(idx(1)))>abs(avg+confidence*dev)
         if length(MUAk_ts)/duration>activity_threshold
-            if abs(centers(idx(1)))>0.00025
+            if abs(centers(idx(1)))>0.00025 % Eliminate central bin from calculations
                 lag_chosen_bin(1,k)=centers(idx(1));lag_chosen_bin(2,k)=counts(idx(1));lag_chosen_bin(3,k)=avg;lag_chosen_bin(4,k)=dev;lag_chosen_bin(5,k)=row(k);lag_chosen_bin(6,k)=col(k);lag_chosen_bin(7,k)=adjM(row(k),col(k));
                 Mcounts(row(k),col(k))=counts(idx(1));
                 Mcenters(row(k),col(k))=centers(idx(1));
