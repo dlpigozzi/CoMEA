@@ -1,4 +1,5 @@
 %% by Diego Lopez-Pigozzi 2024 --- dlpigozzi@gmail.com ---
+%  copyrighted by GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
 % here the link to the paper once published
 %% Import spike list
 %---------- Assembloids Kiki
