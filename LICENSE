@@ -631,7 +631,7 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-     The Microelectrode Array Network Linear Inter Network Connection (MEA-LINC)
+     The Microelectrode Array Network Linear Inter Network Connectivity (MEA-LINC)
 was created by the research group of Mario Bortolozzi 
 at the Università degli Studi di Padova (Padova, Italy) and Venetian Institute of
 Molecular Medicine (VIMM, Padova, Italy) to facilitate the analysis of neuronal 
@@ -651,12 +651,16 @@ activity and functional connectivity in MEA recordings from neuronal tissue.
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-Also add information on how to contact you by electronic and paper mail.
+For questions contact Diego Lopez-Pigozzi, dlpigozzi@gmail.com.
+Physical address: Fondazione per la ricerca biomedica avanzata - VIMM
+Via Orus, 2
+Padova, PD 35129
+Italy
 
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    <program>  Copyright (C) <year>  <name of author>
+    MEA-LINC  Copyright (C) 2024  Diego Lopez-Pigozzi
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
