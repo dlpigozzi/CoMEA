@@ -11,7 +11,6 @@ MAIN function:
 - OneWellMEA_connectivity.m
 #
 Subfunctions:
-- importingCSV_Spikelist.m
 - importSpikeMEA.m
 - crosscorrelogram.m
 
